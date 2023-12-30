@@ -1,4 +1,4 @@
-# Experiment--04-Half-Subtractor-and-Full-subtractor
+# Experiment 04 Half Subtractor and Full subtractor
 # Name:vignesh.v
 # Reference number:23004027
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
